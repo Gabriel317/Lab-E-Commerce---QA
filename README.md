@@ -1,4 +1,4 @@
-# Portfólio de QA — Gabriel de Faria
+# Estudos QA (Lab E-Commerce) — Gabriel de Faria
 
 Este repositório reúne exercícios práticos de teste de software desenvolvidos durante meus estudos.
 
