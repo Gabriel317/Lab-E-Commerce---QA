@@ -4,7 +4,7 @@
 
 Reforçando meus conhecimentos na área de QA, com foco em testes manuais, exploratórios, de integração e regressão, além de fundamentos de SQL e testes de API.
 
-## Este repositório reúne exercícios práticos de teste de software desenvolvidos durante meus estudos.
+**Este repositório reúne exercícios práticos de teste de software desenvolvidos durante meus estudos.**
 
 ## O que este repositório demonstra
 
