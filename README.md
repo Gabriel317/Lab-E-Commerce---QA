@@ -2,6 +2,10 @@
 
 Este repositório reúne exercícios práticos de teste de software desenvolvidos durante meus estudos.
 
+## Sobre mim
+
+Reforçando meus conhecimentos na área de QA, com foco em testes manuais, exploratórios, de integração e regressão, além de fundamentos de SQL e testes de API.
+
 ## O que este repositório demonstra
 
 - **Testes manuais**: escrita de casos de teste estruturados (pré-condição, passos, dados de entrada, resultado esperado/obtido, status)
@@ -29,6 +33,4 @@ regressao/              → suíte de regressão com priorização de casos
 sql/                    → queries SQL usadas para validação de dados
 ```
 
-## Sobre mim
 
-Reforçando meus conhecimentos na área de QA, com foco em testes manuais, exploratórios, de integração e regressão, além de fundamentos de SQL e testes de API.
