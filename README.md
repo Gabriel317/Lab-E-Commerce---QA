@@ -1,10 +1,10 @@
 # Lab E-Commerce (QA-Estudos) — Gabriel de Faria
 
-Este repositório reúne exercícios práticos de teste de software desenvolvidos durante meus estudos.
-
 ## Sobre mim
 
 Reforçando meus conhecimentos na área de QA, com foco em testes manuais, exploratórios, de integração e regressão, além de fundamentos de SQL e testes de API.
+
+Este repositório reúne exercícios práticos de teste de software desenvolvidos durante meus estudos.
 
 ## O que este repositório demonstra
 
