@@ -1,4 +1,4 @@
-# Estudos QA (Lab E-Commerce) — Gabriel de Faria
+# Lab E-Commerce (QA-Estudos) — Gabriel de Faria
 
 Este repositório reúne exercícios práticos de teste de software desenvolvidos durante meus estudos.
 
