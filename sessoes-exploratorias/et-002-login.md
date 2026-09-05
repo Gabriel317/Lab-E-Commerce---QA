@@ -7,6 +7,7 @@ Sessões documentadas no formato Session-Based Test Management (charter, notas, 
 ## ET-002 — Login (saucedemo.com)
 
 **Tester:** Gabriel de Faria
+
 **Duração:** 30 min
 
 **Charter:** Explorar a tela de login, analisando comportamento dos campos e botões.
